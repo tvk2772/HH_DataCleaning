@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 
 # Quartile Method
-
 def outliers_iqr(data, feature, log_scale=False, left=1.5, right=1.5):
     if log_scale:
         x=np.log(data[feature])
@@ -17,7 +16,6 @@ def outliers_iqr(data, feature, log_scale=False, left=1.5, right=1.5):
     return outliers, cleaned
 
 # Z-score method
-
 def outliers_z_score(data, feature, log_scale=False, left=3, right=3):
     if log_scale:
         x = np.log(data[feature]+1)
