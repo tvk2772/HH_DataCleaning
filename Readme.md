@@ -30,7 +30,7 @@
 
 ### Дополнение
 диаграммы проекта, построенные при помощи библиотеки plotly:
-+ [*Гистограмма распределения опыта работы соискателей*](http://htmlpreview.github.com/?https://github.com/tvk2772/HH_DataCleaning/blob/master/diagrams/city_earn_box.html)
++ [*Гистограмма распределения опыта работы соискателей*](http://htmlpreview.github.io/?https://github.com/tvk2772/HH_DataCleaning/blob/master/diagrams/city_earn_box.html)
 + [*Коробчатая диаграмма распределения опыта работы соискателей*](diagrams/experience_box.html)
 + [*Гистограмма распределения желаемой заработной платы*](diagrams/earn_hist.html)
 + [*Коробчатая диаграмма распределения желаемой заработной платы*](diagrams/earn_box.html)
