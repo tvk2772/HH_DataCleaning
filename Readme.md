@@ -31,14 +31,13 @@
 ### Дополнение
 диаграммы проекта, построенные при помощи библиотеки plotly:
 + [*Гистограмма распределения опыта работы соискателей*](https://htmlpreview.github.io/?https://github.com/tvk2772/HH_DataCleaning/blob/master/diagrams/city_earn_box.html)
-<https://github.com/tvk2772/HH_DataCleaning/blob/master/diagrams/city_earn_box.html>
-+ [*Коробчатая диаграмма распределения опыта работы соискателей*](diagrams/experience_box.html)
-+ [*Гистограмма распределения желаемой заработной платы*](diagrams/earn_hist.html)
-+ [*Коробчатая диаграмма распределения желаемой заработной платы*](diagrams/earn_box.html)
-+ [*Диаграмма зависимости медианной зарплаты от готовности к переезду и/или к командировкам*](diagrams/move_trip_bar.html)
-+ [*Диаграмма зависимости медианной зарплаты от уровня образования*](diagrams/earn_education_bar.html)
-+ [*Диаграмма распределения медианной зарплаты по городам*](diagrams/city_earn_box.html)
-+ [*Диаграмма распределения заработной платы в зависимости от пола и возраста*](diagrams/gender_earn_bar.html)
++ [*Коробчатая диаграмма распределения опыта работы соискателей*](https://htmlpreview.github.io/?https://github.com/tvk2772/HH_DataCleaning/blob/master/diagrams/experience_box.html)
++ [*Гистограмма распределения желаемой заработной платы*](https://htmlpreview.github.io/?https://github.com/tvk2772/HH_DataCleaning/blob/master/diagrams/earn_hist.html)
++ [*Коробчатая диаграмма распределения желаемой заработной платы*](https://htmlpreview.github.io/?https://github.com/tvk2772/HH_DataCleaning/blob/master/diagrams/earn_box.html)
++ [*Диаграмма зависимости медианной зарплаты от готовности к переезду и/или к командировкам*](https://htmlpreview.github.io/?https://github.com/tvk2772/HH_DataCleaning/blob/master/diagrams/move_trip_bar.html)
++ [*Диаграмма зависимости медианной зарплаты от уровня образования*](https://htmlpreview.github.io/?https://github.com/tvk2772/HH_DataCleaning/blob/master/diagrams/earn_education_bar.html)
++ [*Диаграмма распределения медианной зарплаты по городам*](https://htmlpreview.github.io/?https://github.com/tvk2772/HH_DataCleaning/blob/master/diagrams/city_earn_box.html)
++ [*Диаграмма распределения заработной платы в зависимости от пола и возраста*](https://htmlpreview.github.io/?https://github.com/tvk2772/HH_DataCleaning/blob/master/diagrams/gender_earn_bar.html)
 
 
 
