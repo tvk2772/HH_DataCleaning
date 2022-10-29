@@ -1,10 +1,9 @@
 # ignore test files
 *.ipynb
-!Project_1.ipynb
+!Project_HH_DataCleaning.ipynb
 
 # ignore cach 
 __pycache__
 
 # ignore data files
 data
-diagrams
